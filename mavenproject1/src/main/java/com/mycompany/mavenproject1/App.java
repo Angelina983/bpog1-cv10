@@ -14,7 +14,7 @@ public class App extends Application {
 
         Scene scene = new Scene(app.getRoot(), 800, 600);
 
-        stage.setTitle("Příklad 4 - Dialog pro výběr obrázku");
+        stage.setTitle("Dialog pro výběr obrázku");
         stage.setScene(scene);
         stage.show();
     }
